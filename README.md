@@ -4,7 +4,10 @@ This scraper is based on my previous otodom scraper, I thought that it might be 
 I scraped 2 features from offer:
 * offer id
 * offer description
+
 Next here is the screenshoot of how the data looks, saved in csv format:
+
+<img src="description_data.PNG" width="500" height="500">
 
 ### Description word cloud creation
 For word cloud I needed to join all rows from DataFrame into one string.
